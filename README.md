@@ -24,6 +24,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf Smile 
+
 $ git clone https://github.com/Rehankhano/Smile
 ## ⇨  Run Script
 $ cd Smile
